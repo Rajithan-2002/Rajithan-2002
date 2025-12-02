@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey, I'm Rajithan
 
-<!--
-**Rajithan-2002/Rajithan-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an IT undergraduate who focuses on **AI, data science, networking, and cyber security**. Most of my time goes into experimenting, breaking things, and learning how they actually work.
 
-Here are some ideas to get you started:
+## 🔧 What I'm Working On
+- Strengthening networking & security fundamentals  
+- Exploring machine learning and practical AI applications  
+- Building small tools and automation scripts  
+- Improving my overall problem-solving skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 What I'm Learning Next
+I’m focusing on skills that actually matter long-term:
+- Network security  
+- Python for automation and data work  
+- Linux internals  
+- Practical ML workflows  
+
+## 🧠 What You Can Expect Here
+- Experiments  
+- Learning-focused projects  
+- Automation scripts  
+- Notes from things I break and fix  
+
+## 📫 Reach Me
+**GitHub:** [Rajithan-2002](https://github.com/Rajithan-2002)
+
