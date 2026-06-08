@@ -94,9 +94,9 @@ Currently_Exploring:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajithan-2002&show_icons=true&theme=chartreuse-dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajithan-2002&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajithan-2002&layout=compact&theme=chartreuse-dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajithan-2002&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
