@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Rajithan Pathmanathan**, an undergraduate pursuing a **BSc (Hons) in Information Technology & Management** at the **University of Kelaniya**.
+I'm **Rajithan Pathmanathan**, an undergraduate pursuing a **BSc (Hons) in Information Technology** at the **University of Kelaniya**.
 
 My primary interests revolve around designing, securing, and improving modern digital systems through:
 
